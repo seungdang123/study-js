@@ -1,5 +1,4 @@
 // if
-
 let age = 10;
 
 if (age === 10) {
@@ -12,7 +11,6 @@ if (age === 10) {
 
 
 // switch
-
 switch(age) {
     case 1:
         console.log(1);
